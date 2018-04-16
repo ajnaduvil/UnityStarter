@@ -33,3 +33,28 @@ Starter Scene
 - Teleport
 - Adding Policy
 - Setting up
+
+
+Oops
+Abstraction
+ - hiding implementation using abstract classes and interfaces etc
+ - https://www.codeproject.com/Articles/816448/Virtual-vs-Override-vs-New-Keyword-in-Csharp 
+ Interface
+  An interface is a contract between itself and any class that implements it. This contract states that any class that implements the interface will implement the interface's properties, methods and/or events. An interface contains no implementation, only the signatures of the functionality the interface provides. An interface can contain signatures of methods, properties, indexers & events.
+  - https://www.codeproject.com/Articles/11155/Abstract-Class-versus-Interface
+  - https://stackoverflow.com/questions/3117838/why-do-we-need-the-new-keyword-and-why-is-the-default-behavior-to-hide-and-not-o
+ 
+Encapsulation
+	- Access Modifier
+	- information hiding
+	-
+Abstraction vs Encapsulation
+	Encapsulation:-- Information hiding.
+	Abstraction:-- Implementation hiding.
+Inheritance
+PolyMorphism
+- 
+- https://stackoverflow.com/questions/2152848/compile-time-polymorphism-vs-run-time-polymorphism
+
+Inheritance
+ - 
