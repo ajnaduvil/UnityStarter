@@ -44,17 +44,17 @@ Abstraction
   - https://www.codeproject.com/Articles/11155/Abstract-Class-versus-Interface
   - https://stackoverflow.com/questions/3117838/why-do-we-need-the-new-keyword-and-why-is-the-default-behavior-to-hide-and-not-o
  
-Encapsulation
-	- Access Modifier
-	- information hiding
-	-
-Abstraction vs Encapsulation
-	Encapsulation:-- Information hiding.
-	Abstraction:-- Implementation hiding.
-Inheritance
-PolyMorphism
+Encapsulation <br />
+	- Access Modifier <br />
+	- information hiding <br />
+	- <br />
+Abstraction vs Encapsulation <br />
+	Encapsulation:-- Information hiding. <br />
+	Abstraction:-- Implementation hiding. <br />
+Inheritance <br />
+PolyMorphism <br />
 - 
 - https://stackoverflow.com/questions/2152848/compile-time-polymorphism-vs-run-time-polymorphism
 
-Inheritance
+Inheritance <br />
  - 
